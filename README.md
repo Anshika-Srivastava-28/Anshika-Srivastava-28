@@ -44,12 +44,14 @@ I enjoy building practical projects, learning new technologies, and strengthenin
 
 ## 🚀 Projects
 
-### 🔐 Password Generator
+### 🔐 [Password Generator](https://github.com/Anshika-Srivastava-28/Password-Generator)
+
 A Python-based password generator that creates customizable passwords using letters, digits, and special characters.
 
 **Technologies:** Python
 
-### 📚 DSA Practice
+### 📚 [DSA Practice](https://github.com/Anshika-Srivastava-28/DSA)
+
 A structured repository where I practice and implement Data Structures and Algorithms using Java.
 
 **Technologies:** Java
