@@ -71,6 +71,14 @@ School Education
 
 - 💼 LinkedIn: [Anshika Srivastava](https://www.linkedin.com/in/anshika-srivastava-73bb2532a/)
 - 💻 GitHub: [Anshika-Srivastava-28](https://github.com/Anshika-Srivastava-28)
+
+
+## 🌱 Currently Learning
+
+- 🤖 Machine Learning and practical AI/ML projects
+- 🧩 Data Structures & Algorithms using Java
+- 🐍 Advanced Python and data analysis
+- 🌐 Web development with HTML, CSS & JavaScript
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
