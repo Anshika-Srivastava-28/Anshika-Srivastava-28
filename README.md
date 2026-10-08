@@ -3,7 +3,21 @@
 🎓 B.Tech CSE (AI & ML) | Final Year Student  
 💻 Python | Java | SQL | Machine Learning  
 🌱 Currently learning DSA & Machine Learning  
-🚀 Interested in Artificial Intelligence and Software Development
+🚀 Interested in AI/ML and Software Development
+
+## 👩‍💻 About Me
+
+I am a final-year B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning.
+
+I enjoy building practical projects, learning new technologies, and strengthening my programming and problem-solving skills.
+
+- 🔭 Currently working on AI/ML projects
+- 🌱 Currently learning Data Structures & Algorithms and Machine Learning
+- 💻 Programming: Python, Java
+- 📊 Data & ML: Pandas, NumPy, Matplotlib, Scikit-learn
+- 🗄️ Database: SQL
+- 🌐 Web Technologies: HTML, CSS, JavaScript
+- 🎯 Goal: Build a career in AI/ML and Software Development
 
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
