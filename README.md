@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi 👋, I'm Anshika Srivastava
+
+🎓 B.Tech CSE (AI & ML) | Final Year Student  
+💻 Python | Java | SQL | Machine Learning  
+🌱 Currently learning DSA & Machine Learning  
+🚀 Interested in Artificial Intelligence and Software Development
 
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
