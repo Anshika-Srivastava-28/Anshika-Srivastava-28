@@ -41,6 +41,19 @@ I enjoy building practical projects, learning new technologies, and strengthenin
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Projects
+
+### 🔐 Password Generator
+A Python-based password generator that creates customizable passwords using letters, digits, and special characters.
+
+**Technologies:** Python
+
+### 📚 DSA Practice
+A structured repository where I practice and implement Data Structures and Algorithms using Java.
+
+**Technologies:** Java
+
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
