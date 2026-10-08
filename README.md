@@ -79,6 +79,12 @@ School Education
 - 🧩 Data Structures & Algorithms using Java
 - 🐍 Advanced Python and data analysis
 - 🌐 Web development with HTML, CSS & JavaScript
+
+## 📊 GitHub Stats
+
+![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshika-Srivastava-28&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-Srivastava-28&layout=compact&hide_border=true)
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
