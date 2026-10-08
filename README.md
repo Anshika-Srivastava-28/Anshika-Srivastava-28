@@ -64,6 +64,11 @@ R.R. Group of Institutions
 **Jawahar Navodaya Vidyalaya**  
 School Education
 
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Anshika Srivastava](https://www.linkedin.com/in/anshika-srivastava-73bb2532a/)
+- 💻 GitHub: [Anshika-Srivastava-28](https://github.com/Anshika-Srivastava-28)
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
