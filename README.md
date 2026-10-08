@@ -54,6 +54,16 @@ A structured repository where I practice and implement Data Structures and Algor
 
 **Technologies:** Java
 
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+R.R. Group of Institutions  
+*2023 – 2027*
+
+**Jawahar Navodaya Vidyalaya**  
+School Education
+
 <!--
 **Anika-Srivastava/Anika-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
